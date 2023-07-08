@@ -1,0 +1,14 @@
+.dish-container{
+    display: grid;
+    grid-template-columns: 23% 23% 23% 23%;
+    justify-content: center;
+}
+.dish{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+.dish img{
+    background-size: cover;
+}

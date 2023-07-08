@@ -1,0 +1,9 @@
+.category-btn{
+    border:none;
+    padding:.8rem;
+    background-color: orangered ;
+    margin: 0 .5rem ;
+    border-radius: 10px;
+    color:white;
+    cursor:pointer;
+}
